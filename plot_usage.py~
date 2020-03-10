@@ -1,0 +1,4 @@
+import json
+
+with open('memex_usage.json') as json_file:
+    data=json.load(json_file)

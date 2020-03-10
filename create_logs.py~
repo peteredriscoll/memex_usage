@@ -1,0 +1,6 @@
+import subprocess
+
+### create_logs.py ###
+### Purpose: create memex usage logs using sreport.
+### jobs will run in sequence (not at all once)
+
